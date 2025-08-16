@@ -15,3 +15,7 @@ Example.java
 
 run the script:
 bash queueStarsM.sh
+
+this script will submit multipe batchas as well
+example2.sim
+example2.java
