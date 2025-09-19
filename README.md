@@ -15,7 +15,7 @@ run the script:
 
 bash queueStarsM.sh
 
-this script will submit multipe batchas as well
+this script will submit multipe batches as well
 
 example2.sim
 
